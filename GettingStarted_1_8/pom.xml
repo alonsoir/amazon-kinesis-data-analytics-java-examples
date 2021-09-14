@@ -12,7 +12,7 @@
     <properties>
         <java.version>1.8</java.version>
         <scala.binary.version>2.11</scala.binary.version>
-        <kda.version>1.0.1</kda.version>
+        <kda.version>1.2.0</kda.version>
     </properties>
 
     <dependencyManagement>
