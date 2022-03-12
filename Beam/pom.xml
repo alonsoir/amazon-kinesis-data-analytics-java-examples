@@ -14,8 +14,8 @@
         <java.version>1.11</java.version>
         <scala.binary.version>2.12</scala.binary.version>
         <kda-runtime.version>1.2.0</kda-runtime.version>
-        <beam.version>2.23.0</beam.version>
-        <jackson.version>2.10.2</jackson.version>
+        <beam.version>2.35.0</beam.version>
+        <jackson.version>2.13.0</jackson.version>
     </properties>
 
     <dependencyManagement>
